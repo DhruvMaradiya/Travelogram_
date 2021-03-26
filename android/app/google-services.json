@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39675931678",
+    "project_id": "try1-9c1ec",
+    "storage_bucket": "try1-9c1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39675931678:android:68f7ccd102612373af120f",
+        "android_client_info": {
+          "package_name": "com.dmking.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39675931678-vhl7oq9q30koce0i3l7v4m9ojrv4t5cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNsErzkaOLDINWFWnJQG870ZylYhLFHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39675931678-vhl7oq9q30koce0i3l7v4m9ojrv4t5cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
