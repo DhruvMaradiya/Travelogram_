@@ -1,6 +1,6 @@
-# instagram
+# travelogram
+you can use it as a refrence for building social network UI's 
 
-instagram application
 
 ## Getting Started
 
