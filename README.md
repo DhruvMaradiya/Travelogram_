@@ -7,7 +7,7 @@
 
 
 # travelogram
-you can use it as a refrence for building social network UI's 
+you can use it as a refrence for building social networking app UI's 
 
 
 ## Getting Started
