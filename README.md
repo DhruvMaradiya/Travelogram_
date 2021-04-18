@@ -8,6 +8,8 @@
 
 # travelogram
 you can use it as a refrence for building social networking app UI's 
+It has A authentication system for user 
+Make sure if u want to run project easily make you firebase account and enable authentication with email
 
 
 ## Getting Started
