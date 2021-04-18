@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
 import 'homescreen.dart';
+
 import 'profilepage.dart';
 import 'Location screen.dart';
+import 'welcome_screen.dart';
+import 'login_screen.dart';
+import 'registration_screen.dart';
+
+
 void main() => runApp(travelogram());
 class travelogram extends StatelessWidget {
   @override
@@ -13,10 +19,17 @@ class travelogram extends StatelessWidget {
         debugShowCheckedModeBanner: false,
       initialRoute: '/',
       routes: {
-         '/': (context) => HomeScreen(),
+          '/': (context) => WelcomeScreen(),
+       '/homescreen' :(context) => HomeScreen(),
         '/profile':(context) => ProfileScreen(),
+        '/login_screen':(context) => LoginScreen(),
+        '/registration_screen':(context) => RegistrationScreen(),
         '/location':(context) => LocationScreen(),
+
+
       },
     );
   }
 }
+
+
